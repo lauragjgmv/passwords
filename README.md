@@ -82,7 +82,7 @@
             if (num === 1) {
                 pistaTexto.innerHTML = "🔍 Pista 1: La primera letra es la inicial de la empresa que trabaja en ciberseguridad y espacio.";
             } else if (num === 2) {
-                pistaTexto.innerHTML = "🧮 Pista 2: El número de letras en 'Ciberseguridad' menos el número de vocales en 'Hacker' te dará la segunda letra, será la posición del alfabeto que te dará la segunda letra";
+                pistaTexto.innerHTML = "🧮 Pista 2: El número de letras en "Ciberataque" más el número de vocales en "Hacker" te dará la posición en el alfabeto de la letra que buscas.";
             } else if (num === 3) {
                 pistaTexto.innerHTML = "🖥️ Pista 3: En código ASCII, la letra 86 representa la última letra de la contraseña.";
             }
